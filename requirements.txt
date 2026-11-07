@@ -1,0 +1,2 @@
+streamlit>=1.40,<2
+Send2Trash>=2.1,<3
